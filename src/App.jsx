@@ -1,8 +1,8 @@
 export default function App() {
   return (
-    <div style={{ padding: "40px", fontFamily: "Arial" }}>
+    <div>
       <h1>Platteland Branding</h1>
-      <p>Your premium branding partner for agriculture and industry.</p>
+      <p>Your branding website is live 🚀</p>
     </div>
   );
 }
